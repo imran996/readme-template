@@ -113,7 +113,7 @@ http://www.google.com
 ### Image Syntax   
 
 <!--![Profile](./images/imran_tasneem.jpg)-->
-<img src="./images/imran_tasneem.jpg" width="400" height="400" title="profile image"/>  
+<img src="./images/imran_tasneem.jpg" width="400" height="400" title="Father and Daughter but missing mother"/>  
 
 
 </br>
